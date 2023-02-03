@@ -30,6 +30,7 @@ Vue.component("news-ticker", {
                 "Nerf This!",
                 "To nerf, or not to nerf. That is the Question!",
                 "A news ticker. How original.",
+                'People Generator. Using <a href="https://www.worldometers.info/">Worldometers</a>.',
                 () =>
                 {
                     let res = "";
